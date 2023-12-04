@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=+VBUS_FILT Pin=D5-6
-Removed Pin From Net: NetName=+VBUS_FILT Pin=P1-4
-Added Pin To Net: NetName=NetD5_6 Pin=D5-6
-Added Pin To Net: NetName=NetD5_6 Pin=P1-4
-Added Net: Name=NetD5_6

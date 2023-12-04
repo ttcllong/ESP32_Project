@@ -1,7 +1,0 @@
-Added Component: Designator=C8(CAP_0402)
-Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=C8-1
-Added Pin To Net: NetName=+VCC_SPI Pin=C8-2
-Added Member To Class: ClassName=ESP32_Schematic Member=Component C8 10u
