@@ -1,0 +1,23 @@
+Added Component: Designator=C23(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C105873"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402JR-075K1L"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SKRPANE010)
+Add component (AddParameter): Name = "LCSC"; Value = "C470426"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alps Alpine"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SKRPANE010"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=INT_GYR_GPIO9 Pin=C23-2
+Added Pin To Net: NetName=INT_GYR_GPIO9 Pin=R13-1
+Added Pin To Net: NetName=+3V3 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=SW2-12
+Added Pin To Net: NetName=GND Pin=SW2-12
+Added Pin To Net: NetName=INT_GYR_GPIO9 Pin=SW2-34
+Added Pin To Net: NetName=INT_GYR_GPIO9 Pin=SW2-34
+Added Member To Class: ClassName=ESP32_Schematic Member=Component C23 100n
+Added Member To Class: ClassName=ESP32_Schematic Member=Component R13 5k1
+Added Member To Class: ClassName=ESP32_Schematic Member=Component SW2 SKRPANE010

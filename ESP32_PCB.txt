@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Altium\ESP32_Project\ESP32_PCB.PcbDoc
+Date         : 11/18/2023
+Time         : 12:41:10 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99.34%
+    Connections, 151
+    Connections routed, 150
+    Connections remaining, 1
+count : 4
